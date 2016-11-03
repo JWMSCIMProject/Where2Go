@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		411BB022E88A66B622DFD638 /* libPods-Where2Go.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3610A44356C0DB2A70C6F244 /* libPods-Where2Go.a */; };
+		BA2006A91DCA42370035368A /* adView.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA2006A81DCA42370035368A /* adView.jpg */; };
+		BA2006AB1DCA423D0035368A /* adHotel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA2006AA1DCA423D0035368A /* adHotel.jpg */; };
+		BA2006AD1DCA42430035368A /* adRestaurant.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA2006AC1DCA42430035368A /* adRestaurant.jpg */; };
+		BA2006B11DCA4BE80035368A /* RestaurantBT.ico in Resources */ = {isa = PBXBuildFile; fileRef = BA2006B01DCA4BE80035368A /* RestaurantBT.ico */; };
+		BA2006B31DCA4BEE0035368A /* ViewBT.png in Resources */ = {isa = PBXBuildFile; fileRef = BA2006B21DCA4BEE0035368A /* ViewBT.png */; };
+		BA2006B51DCA4BFD0035368A /* SalonBT.png in Resources */ = {isa = PBXBuildFile; fileRef = BA2006B41DCA4BFD0035368A /* SalonBT.png */; };
+		BA2006B71DCA4C010035368A /* HotelBT.png in Resources */ = {isa = PBXBuildFile; fileRef = BA2006B61DCA4C010035368A /* HotelBT.png */; };
+		BA2006B91DCA4F130035368A /* LocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2006B81DCA4F130035368A /* LocationViewController.swift */; };
+		BA26216B1DCA56EE00D34240 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = BA26216A1DCA56EE00D34240 /* Podfile */; };
+		BA700E4C1DCAA083003A10B5 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA700E4B1DCAA083003A10B5 /* MapKit.framework */; };
+		BA700E5A1DCABEE7003A10B5 /* homepageIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BA700E591DCABEE7003A10B5 /* homepageIcon.png */; };
+		BA700E5E1DCABEFC003A10B5 /* userIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BA700E5B1DCABEFC003A10B5 /* userIcon.png */; };
+		BA700E5F1DCABEFC003A10B5 /* settingIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BA700E5C1DCABEFC003A10B5 /* settingIcon.png */; };
+		BA700E601DCABEFC003A10B5 /* heartIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BA700E5D1DCABEFC003A10B5 /* heartIcon.png */; };
+		BA700E621DCAC3A6003A10B5 /* loginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA700E611DCAC3A6003A10B5 /* loginViewController.swift */; };
+		BA700E641DCAC5A9003A10B5 /* background1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA700E631DCAC5A9003A10B5 /* background1.jpg */; };
+		BAD9A0D11DCA306000A7328A /* homepageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD9A0D01DCA306000A7328A /* homepageViewController.swift */; };
+		BAD9A0E41DCA375E00A7328A /* log in.png in Resources */ = {isa = PBXBuildFile; fileRef = BAD9A0E31DCA375E00A7328A /* log in.png */; };
+		BAD9A0E61DCA376300A7328A /* Maps Near Me.png in Resources */ = {isa = PBXBuildFile; fileRef = BAD9A0E51DCA376300A7328A /* Maps Near Me.png */; };
 		BAF543911DCA1A20008BFC00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF543901DCA1A20008BFC00 /* AppDelegate.swift */; };
 		BAF543931DCA1A20008BFC00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF543921DCA1A20008BFC00 /* ViewController.swift */; };
 		BAF543961DCA1A20008BFC00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF543941DCA1A20008BFC00 /* Main.storyboard */; };
@@ -35,6 +55,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3610A44356C0DB2A70C6F244 /* libPods-Where2Go.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Where2Go.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		48C5EDF9B508C202780F191E /* Pods-Where2Go.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Where2Go.release.xcconfig"; path = "Pods/Target Support Files/Pods-Where2Go/Pods-Where2Go.release.xcconfig"; sourceTree = "<group>"; };
+		BA2006A81DCA42370035368A /* adView.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = adView.jpg; sourceTree = "<group>"; };
+		BA2006AA1DCA423D0035368A /* adHotel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = adHotel.jpg; sourceTree = "<group>"; };
+		BA2006AC1DCA42430035368A /* adRestaurant.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = adRestaurant.jpg; sourceTree = "<group>"; };
+		BA2006B01DCA4BE80035368A /* RestaurantBT.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = RestaurantBT.ico; sourceTree = "<group>"; };
+		BA2006B21DCA4BEE0035368A /* ViewBT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ViewBT.png; sourceTree = "<group>"; };
+		BA2006B41DCA4BFD0035368A /* SalonBT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SalonBT.png; sourceTree = "<group>"; };
+		BA2006B61DCA4C010035368A /* HotelBT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HotelBT.png; sourceTree = "<group>"; };
+		BA2006B81DCA4F130035368A /* LocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocationViewController.swift; path = ../LocationViewController.swift; sourceTree = "<group>"; };
+		BA26216A1DCA56EE00D34240 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		BA700E4B1DCAA083003A10B5 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		BA700E591DCABEE7003A10B5 /* homepageIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = homepageIcon.png; sourceTree = "<group>"; };
+		BA700E5B1DCABEFC003A10B5 /* userIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = userIcon.png; sourceTree = "<group>"; };
+		BA700E5C1DCABEFC003A10B5 /* settingIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settingIcon.png; sourceTree = "<group>"; };
+		BA700E5D1DCABEFC003A10B5 /* heartIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heartIcon.png; sourceTree = "<group>"; };
+		BA700E611DCAC3A6003A10B5 /* loginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loginViewController.swift; sourceTree = "<group>"; };
+		BA700E631DCAC5A9003A10B5 /* background1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background1.jpg; sourceTree = "<group>"; };
+		BAD9A0D01DCA306000A7328A /* homepageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = homepageViewController.swift; path = ../homepageViewController.swift; sourceTree = "<group>"; };
+		BAD9A0E31DCA375E00A7328A /* log in.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "log in.png"; sourceTree = "<group>"; };
+		BAD9A0E51DCA376300A7328A /* Maps Near Me.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Maps Near Me.png"; sourceTree = "<group>"; };
 		BAF5438D1DCA1A20008BFC00 /* Where2Go.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Where2Go.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAF543901DCA1A20008BFC00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAF543921DCA1A20008BFC00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +90,7 @@
 		BAF543AF1DCA1A20008BFC00 /* Where2GoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Where2GoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAF543B31DCA1A20008BFC00 /* Where2GoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Where2GoUITests.swift; sourceTree = "<group>"; };
 		BAF543B51DCA1A20008BFC00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0532949F9EA465C0762E4A2 /* Pods-Where2Go.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Where2Go.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Where2Go/Pods-Where2Go.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +98,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA700E4C1DCAA083003A10B5 /* MapKit.framework in Frameworks */,
+				411BB022E88A66B622DFD638 /* libPods-Where2Go.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,13 +120,55 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		07E90D31911813B67414022F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BA700E4B1DCAA083003A10B5 /* MapKit.framework */,
+				3610A44356C0DB2A70C6F244 /* libPods-Where2Go.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6E321E7D940C6878AC508FA1 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D0532949F9EA465C0762E4A2 /* Pods-Where2Go.debug.xcconfig */,
+				48C5EDF9B508C202780F191E /* Pods-Where2Go.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		BAD9A0E21DCA375600A7328A /* image */ = {
+			isa = PBXGroup;
+			children = (
+				BA700E631DCAC5A9003A10B5 /* background1.jpg */,
+				BA700E591DCABEE7003A10B5 /* homepageIcon.png */,
+				BA700E5B1DCABEFC003A10B5 /* userIcon.png */,
+				BA700E5C1DCABEFC003A10B5 /* settingIcon.png */,
+				BA700E5D1DCABEFC003A10B5 /* heartIcon.png */,
+				BAD9A0E51DCA376300A7328A /* Maps Near Me.png */,
+				BAD9A0E31DCA375E00A7328A /* log in.png */,
+				BA2006A81DCA42370035368A /* adView.jpg */,
+				BA2006AC1DCA42430035368A /* adRestaurant.jpg */,
+				BA2006AA1DCA423D0035368A /* adHotel.jpg */,
+				BA2006B61DCA4C010035368A /* HotelBT.png */,
+				BA2006B41DCA4BFD0035368A /* SalonBT.png */,
+				BA2006B21DCA4BEE0035368A /* ViewBT.png */,
+				BA2006B01DCA4BE80035368A /* RestaurantBT.ico */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
 		BAF543841DCA1A20008BFC00 = {
 			isa = PBXGroup;
 			children = (
+				BA26216A1DCA56EE00D34240 /* Podfile */,
 				BAF5438F1DCA1A20008BFC00 /* Where2Go */,
 				BAF543A71DCA1A20008BFC00 /* Where2GoTests */,
 				BAF543B21DCA1A20008BFC00 /* Where2GoUITests */,
 				BAF5438E1DCA1A20008BFC00 /* Products */,
+				6E321E7D940C6878AC508FA1 /* Pods */,
+				07E90D31911813B67414022F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,8 +185,12 @@
 		BAF5438F1DCA1A20008BFC00 /* Where2Go */ = {
 			isa = PBXGroup;
 			children = (
+				BAD9A0E21DCA375600A7328A /* image */,
 				BAF543901DCA1A20008BFC00 /* AppDelegate.swift */,
 				BAF543921DCA1A20008BFC00 /* ViewController.swift */,
+				BAD9A0D01DCA306000A7328A /* homepageViewController.swift */,
+				BA2006B81DCA4F130035368A /* LocationViewController.swift */,
+				BA700E611DCAC3A6003A10B5 /* loginViewController.swift */,
 				BAF543941DCA1A20008BFC00 /* Main.storyboard */,
 				BAF5439A1DCA1A20008BFC00 /* Assets.xcassets */,
 				BAF5439C1DCA1A20008BFC00 /* LaunchScreen.storyboard */,
@@ -135,9 +225,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BAF543B81DCA1A20008BFC00 /* Build configuration list for PBXNativeTarget "Where2Go" */;
 			buildPhases = (
+				606D740BD26A485BCD57C2AB /* [CP] Check Pods Manifest.lock */,
 				BAF543891DCA1A20008BFC00 /* Sources */,
 				BAF5438A1DCA1A20008BFC00 /* Frameworks */,
 				BAF5438B1DCA1A20008BFC00 /* Resources */,
+				53CE9610F8DD147CA397E3CB /* [CP] Embed Pods Frameworks */,
+				A67D0C312120B78314144596 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -198,6 +291,11 @@
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = MFLT3B75NM;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					BAF543A31DCA1A20008BFC00 = {
 						CreatedOnToolsVersion = 8.0;
@@ -238,9 +336,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA2006B71DCA4C010035368A /* HotelBT.png in Resources */,
+				BA700E641DCAC5A9003A10B5 /* background1.jpg in Resources */,
+				BA2006B11DCA4BE80035368A /* RestaurantBT.ico in Resources */,
 				BAF5439E1DCA1A20008BFC00 /* LaunchScreen.storyboard in Resources */,
+				BA2006B31DCA4BEE0035368A /* ViewBT.png in Resources */,
+				BA700E5A1DCABEE7003A10B5 /* homepageIcon.png in Resources */,
+				BAD9A0E61DCA376300A7328A /* Maps Near Me.png in Resources */,
 				BAF5439B1DCA1A20008BFC00 /* Assets.xcassets in Resources */,
+				BA2006B51DCA4BFD0035368A /* SalonBT.png in Resources */,
+				BA2006AB1DCA423D0035368A /* adHotel.jpg in Resources */,
+				BA700E5F1DCABEFC003A10B5 /* settingIcon.png in Resources */,
+				BA700E5E1DCABEFC003A10B5 /* userIcon.png in Resources */,
+				BAD9A0E41DCA375E00A7328A /* log in.png in Resources */,
+				BA26216B1DCA56EE00D34240 /* Podfile in Resources */,
+				BA2006AD1DCA42430035368A /* adRestaurant.jpg in Resources */,
+				BA700E601DCABEFC003A10B5 /* heartIcon.png in Resources */,
 				BAF543961DCA1A20008BFC00 /* Main.storyboard in Resources */,
+				BA2006A91DCA42370035368A /* adView.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,11 +373,62 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		53CE9610F8DD147CA397E3CB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Where2Go/Pods-Where2Go-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		606D740BD26A485BCD57C2AB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A67D0C312120B78314144596 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Where2Go/Pods-Where2Go-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		BAF543891DCA1A20008BFC00 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA2006B91DCA4F130035368A /* LocationViewController.swift in Sources */,
+				BAD9A0D11DCA306000A7328A /* homepageViewController.swift in Sources */,
+				BA700E621DCAC3A6003A10B5 /* loginViewController.swift in Sources */,
 				BAF543931DCA1A20008BFC00 /* ViewController.swift in Sources */,
 				BAF543991DCA1A20008BFC00 /* Where2Go.xcdatamodeld in Sources */,
 				BAF543911DCA1A20008BFC00 /* AppDelegate.swift in Sources */,
@@ -415,6 +579,7 @@
 		};
 		BAF543B91DCA1A20008BFC00 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D0532949F9EA465C0762E4A2 /* Pods-Where2Go.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = MFLT3B75NM;
@@ -428,6 +593,7 @@
 		};
 		BAF543BA1DCA1A20008BFC00 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 48C5EDF9B508C202780F191E /* Pods-Where2Go.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = MFLT3B75NM;
@@ -516,6 +682,7 @@
 				BAF543BA1DCA1A20008BFC00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BAF543BB1DCA1A20008BFC00 /* Build configuration list for PBXNativeTarget "Where2GoTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +691,7 @@
 				BAF543BD1DCA1A20008BFC00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BAF543BE1DCA1A20008BFC00 /* Build configuration list for PBXNativeTarget "Where2GoUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +700,7 @@
 				BAF543C01DCA1A20008BFC00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
